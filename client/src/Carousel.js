@@ -27,7 +27,7 @@ function Carousel() {
         "Content-type": "application/json",
       };
       let res = await axios({
-        url: "http://localhost:7000/api/v1",
+        url: "/api/v1",
         method: "GET",
         config,
       });

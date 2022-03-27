@@ -29,7 +29,7 @@ function Search() {
         "Content-type": "application/json",
       };
       let res = await axios({
-        url: `http://localhost:7000/api/v1/${searchValue.current.value}`,
+        url: `/api/v1/${searchValue.current.value}`,
         method: "GET",
         config,
       });
