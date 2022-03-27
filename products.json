@@ -1,0 +1,57 @@
+[
+		{
+			"name": "CHECK PRINT SHIRT",
+			"price": 110,
+            "description":"Stylis check print shirt for all occassions.",
+            "quantity": 20,
+            "rating": 4.5 ,
+            "brandName": "Myntra" ,
+            "ProductId": 1,
+            "listOfImages":["https://guesseu.scene7.com/is/image/GuessEU/M63H24W7JF0-L302-ALTGHOST?wid=1500&fmt=jpeg&qlt=80&op_sharpen=0&op_usm=1.0,1.0,5,0&iccEmbed=0","https://images.unsplash.com/photo-1589992896387-140e940257d0?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=436&q=80"],
+            "options":[""]
+		},
+		{
+			"name": "GLORIA HIGH LOGO SNEAKER",
+			"price": 91,
+            "description":"Sneakers to look cool!",
+            "quantity": 10 ,
+            "rating":4 ,
+            "brandName": "Nike",
+            "ProductId": 2,
+            "listOfImages":["https://guesseu.scene7.com/is/image/GuessEU/FLGLO4FAL12-BEIBR?wid=700&amp;fmt=jpeg&amp;qlt=80&amp;op_sharpen=0&amp;op_usm=1.0,1.0,5,0&amp;iccEmbed=0","https://images.unsplash.com/photo-1607522370275-f14206abe5d3?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1421&q=80"],
+            "options":[""]
+		},
+		{
+			"name": "CATE RIGID BAG",
+			"price": 94.5,
+            "description":"Best bag ever",
+            "quantity": 15 ,
+            "rating": 3,
+            "brandName": "Louis Vuitton" ,
+            "ProductId": 3,
+            "listOfImages":["https://guesseu.scene7.com/is/image/GuessEU/HWVG6216060-TAN?wid=700&amp;fmt=jpeg&amp;qlt=80&amp;op_sharpen=0&amp;op_usm=1.0,1.0,5,0&amp;iccEmbed=0"],
+            "options":[""]
+		},
+		{
+			"name": "GUESS CONNECT WATCH",
+			"price": 438.9,
+            "description":"Watch that makes you look classy",
+            "quantity":4 ,
+            "rating": 4.8,
+            "brandName": "Rolex",
+            "ProductId": 4,
+            "listOfImages":["https://guesseu.scene7.com/is/image/GuessEU/WC0001FMSWC-G5?wid=520&fmt=jpeg&qlt=80&op_sharpen=0&op_usm=1.0,1.0,5,0&iccEmbed=0"],
+            "options":[""]
+		},
+		{
+			"name": "'70s RETRO GLAM KEFIAH",
+			"price": 20,
+            "description":"Retro glam desc",
+            "quantity":8 ,
+            "rating": 3.8,
+            "brandName":"Retro glam" ,
+            "ProductId": 5,
+            "listOfImages":["https://guesseu.scene7.com/is/image/GuessEU/AW6308VIS03-SAP?wid=700&amp;fmt=jpeg&amp;qlt=80&amp;op_sharpen=0&amp;op_usm=1.0,1.0,5,0&amp;iccEmbed"],
+            "options":[""]
+		}
+]

@@ -1,0 +1,36 @@
+.header-search-box {
+  text-align: center;
+  margin-top: 20px;
+}
+.search-suggestions {
+  background: #ffff;
+  width: 100%;
+  position: relative;
+  z-index: 100;
+  overflow: auto;
+  border: 1px solid goldenrod;
+}
+.header-search-input {
+  width: 50%;
+  margin: 4px;
+  border: 1px solid #6161d5;
+  height: 30px;
+}
+.search-suggestions > p {
+  margin: 5px;
+}
+#search-icon {
+  color: #6161d5;
+}
+.search-suggestion {
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+.search-suggestion img {
+  object-fit: cover;
+  margin: 5px;
+  height: 55px;
+  width: 80px;
+}
