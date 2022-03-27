@@ -18,14 +18,16 @@ exports.getOneProduct = async(req,res) =>{
         let searchProduct = req.params.value.toLowerCase();
         let result = [];
         products.forEach((product)=>{
-            product.options.map(element => {
-                if(element.includes(searchProduct) && !result.includes(product)) {
-                    result.push(product);
+            for(let index=0;index<product.options.length;index++) {
+                if(product.options[index].includes(searchProduct)) {
+                result.push(product);
+                break;
                 }
-            })
+            }
         })
         res.status(200).json({result});
     }catch(err){
         console.log(err);
+        res.status(500).json(err);
     }
 }
